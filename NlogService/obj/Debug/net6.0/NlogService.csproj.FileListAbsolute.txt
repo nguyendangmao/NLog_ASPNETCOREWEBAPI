@@ -1,0 +1,12 @@
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\bin\Debug\net6.0\NlogService.deps.json
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\bin\Debug\net6.0\NlogService.dll
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\bin\Debug\net6.0\NlogService.pdb
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\obj\Debug\net6.0\NlogService.csproj.AssemblyReference.cache
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\obj\Debug\net6.0\NlogService.GeneratedMSBuildEditorConfig.editorconfig
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\obj\Debug\net6.0\NlogService.AssemblyInfoInputs.cache
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\obj\Debug\net6.0\NlogService.AssemblyInfo.cs
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\obj\Debug\net6.0\NlogService.csproj.CoreCompileInputs.cache
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\obj\Debug\net6.0\NlogService.dll
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\obj\Debug\net6.0\refint\NlogService.dll
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\obj\Debug\net6.0\NlogService.pdb
+D:\BeGin_MonsTarLab\Hoc_Code_MaZe\NlogService\obj\Debug\net6.0\ref\NlogService.dll
